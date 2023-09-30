@@ -1,3 +1,6 @@
+% Dynamics Matrix Controller For Multi-Input-Multi-Output %
+
+
 clc
 clear all
 close all
